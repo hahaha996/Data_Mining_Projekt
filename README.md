@@ -1,3 +1,16 @@
+Forked from https://github.com/ageron/handson-ml
+
+
+```bash
+# ~/Downloads/handson-ml
+
+```
+
+
+
+---
+
+
 Machine Learning Notebooks
 ==========================
 
