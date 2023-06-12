@@ -1,5 +1,20 @@
+# Data mining project
+
 Forked from https://github.com/ageron/handson-ml
 
+### Workflow with git
+1. Clone the project and start working on own branch
+```bash
+git clone git@github.com:hahaha996/Data_Mining_Projekt.git && cd Data_Mining_Projekt
+# Switch to Danielle's branch
+git checkout Danielle  
+# Do your work. 
+# ...
+# When done:
+git add *
+git commit -m "your commit message goes here. Usually: Whats been changed, whats been addded, ..."
+git push
+````
 
 ```bash
 # ~/Downloads/handson-ml
